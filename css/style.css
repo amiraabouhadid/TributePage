@@ -1,5 +1,6 @@
 body {
-  margin: 1em;
+  margin: 0;
+  padding: 0;
   background-color: #000;
   color: #fff;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -21,7 +22,7 @@ body {
 }
 
 #image {
-  max-width: 60%;
+  max-width: 80%;
   margin: 1em;
   border-radius: 1em;
 }
@@ -32,18 +33,19 @@ body {
   text-decoration: underline;
 }
 
-h1{
-  color: gold;
-
-}
-
 @media screen and (min-width: 500px) {
   #image {
     width: 30%;
     align-self: center;
   }
+}
 
-  /* #main { */
-    /* flex-flow: row; */
-  /* } */
+@media screen and (min-width: 420px) {
+  #image {
+    max-width: 80%;
+  }
+
+  body {
+    font-size: 1.5em;
+  }
 }
