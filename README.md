@@ -21,7 +21,7 @@ A dummy responsive Tribute page was created using HTML5 and CSS3. The tribute pa
 
 - GitHub: [@amiraabouhadid](https://github.com/amiraabouhadid)
 - Twitter: [@AbouhadidAmira](https://twitter.com/AbouhadidAmira)
-- LinkedIn: [amira-abouhadid](https://linkedin.com/amira-abouhadid)
+- LinkedIn: [amira-abouhadid](https://www.linkedin.com/in/amira-abouhadid/)
 
 
 ## 🤝 Contributing
